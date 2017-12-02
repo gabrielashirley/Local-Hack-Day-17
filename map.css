@@ -1,0 +1,36 @@
+
+.container {
+  margin: auto;
+  width: 100%;
+}
+.countryname {
+
+}
+.flags {
+  height: auto;
+  width: 100% ;
+  border:1px solid #021a40;
+}
+.language {
+
+}
+
+.currency {
+}
+.money {
+  height: auto;
+  width: 100% ;
+  border:1px solid #021a40;
+}
+.recentNews {
+
+}
+.funFact {
+
+}
+.gm-style-iw {
+  width: 200px !important;
+  overflow-y: scroll !important;
+  height: 250px !important;
+
+}
