@@ -370,6 +370,17 @@ function showWindow() {
       funFact = "According to the World Giving Index, Americans are the most likely people in the world to help a stranger.";
       break;
 
+      case "Germany":
+      flag = "https://www.countries-ofthe-world.com/flags-normal/flag-of-Germany.png";
+      nationalAnthem = "Germany.mp3";
+      language = "German";
+      currency = "Euros";
+      currencyImage = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Euro_Series_Banknotes.png/1200px-Euro_Series_Banknotes.png";
+      recentNews = " Driver 'deliberately' crashes into revellers outside German nightclub ";
+      recentNewsLink = "http://www.independent.co.uk/news/world/europe/germany-car-crash-nightclub-cuxhaven-police-injuries-arrest-man-latest-a8078901.html";
+      funFact = "The first printed book was in German.";
+      break;
+
 
       default:
       isNotAvailable = true;
